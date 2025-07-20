@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DZ_2/DZ_2.iml" filepath="$PROJECT_DIR$/DZ_2/DZ_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/DZ_3/DZ_3.iml" filepath="$PROJECT_DIR$/DZ_3/DZ_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DZ_4/DZ_4.iml" filepath="$PROJECT_DIR$/DZ_4/DZ_4.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_RTK.iml" filepath="$PROJECT_DIR$/.idea/Java_RTK.iml" />
     </modules>
   </component>
